@@ -1,4 +1,4 @@
-![icon](http://software.rochus-keller.info/LolaCreator_100.png)
+![icon](http://software.rochus-keller.info/VerilogCreator_100.png)
 ## Welcome to LolaCreator 
 
 LolaCreator is a [QtCreator](https://download.qt.io/official_releases/qtcreator/) plugin. It turns QtCreator into a Lola-2 IDE. 
