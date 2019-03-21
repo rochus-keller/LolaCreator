@@ -1,0 +1,13 @@
+{
+    \"Name\" : \"LolaCreator\",
+    \"Version\" : \"0.0.1\",
+    \"CompatVersion\" : \"0.0.1\",
+    \"Vendor\" : \"Rochus Keller\",
+    \"Copyright\" : \"(C) 2019 Rochus Keller\",
+    \"License\" : \"GPL\",
+    \"Category\" : \"Other Languages\",
+    \"Description\" : \"QtCreator based IDE for Lola-2\",
+    \"Url\" : \"https://github.com/rochus-keller/LolaCreator\",
+    $$dependencyList
+}
+

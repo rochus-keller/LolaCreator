@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/Editor">
+        <file>Editor.mimetypes.xml</file>
+    </qresource>
+    <qresource prefix="/lolacreator">
+        <file>images/class.png</file>
+        <file>images/func.png</file>
+        <file>images/var.png</file>
+        <file>images/block.png</file>
+        <file>images/category.png</file>
+    </qresource>
+</RCC>
