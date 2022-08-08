@@ -1,24 +1,24 @@
-![icon](http://software.rochus-keller.info/VerilogCreator_100.png)
+![icon](http://software.rochus-keller.ch/VerilogCreator_100.png)
 ## Welcome to LolaCreator 
 
 LolaCreator is a [QtCreator](https://download.qt.io/official_releases/qtcreator/) plugin. It turns QtCreator into a Lola-2 IDE. 
 
 The plugin is still work in progress, but it already has enough functionality to analyze existing code bases or to develop new code. The current version supports Lola-2 syntax checking/coloring and semantic code navigation/highlighting. Projects can be configured using a file format similar to qmake.
 
-![screenshot](http://software.rochus-keller.info/lolacreator_screenshot_3.png "LolaCreator Screenshot")
+![screenshot](http://software.rochus-keller.ch/lolacreator_screenshot_3.png "LolaCreator Screenshot")
 
 
 ### Implemented Features
 
 - Syntax highlighting 
-- Context sensitive code completer, see [screenshot](http://software.rochus-keller.info/vlcreator_completer_screenshot.png)
+- Context sensitive code completer, see [screenshot](http://software.rochus-keller.ch/vlcreator_completer_screenshot.png)
 - Inline code warnings and errors 
 - Parentheses and begin/end block matching/navigation
 - Hover tooltips
 - Follow symbol under cursor (multi-file support)
 - Show where a symbol is used 
 - Drop-down menu to jump to modules in current file  
-- Module locator (global) and symbol locator (current document); see [screenshot 1](http://software.rochus-keller.info/vlcreator_module_locator_screenshot.png) and [screenshot 2](http://software.rochus-keller.info/vlcreator_symbol_locator_screenshot.png)
+- Module locator (global) and symbol locator (current document); see [screenshot 1](http://software.rochus-keller.ch/vlcreator_module_locator_screenshot.png) and [screenshot 2](http://software.rochus-keller.ch/vlcreator_symbol_locator_screenshot.png)
 - Syntax based code folding and some other features supported by QtCreator, see http://doc.qt.io/qtcreator/
 - Project file to configure source files and libraries
 
